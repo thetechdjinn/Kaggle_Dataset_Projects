@@ -15,6 +15,7 @@ more advanced methods*
 
 Project Repository Index
 
+* [Fitness Classification Dataset](https://github.com/thetechdjinn/Kaggle_Dataset_Projects/tree/master#fitness-classification-dataset "Fitness Classification Dataset")
 ---
 
 ### Fitness Classification Dataset
