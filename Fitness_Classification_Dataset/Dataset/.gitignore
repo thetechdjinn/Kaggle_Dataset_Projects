@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+# Retieve the dataset from Kaggle.com and extract into this directory.
+# https://www.kaggle.com/datasets/muhammedderric/fitness-classification-dataset-synthetic
+*
+# Except this .gitignore file
+!.gitignore
+!howto_obtain_data.txt

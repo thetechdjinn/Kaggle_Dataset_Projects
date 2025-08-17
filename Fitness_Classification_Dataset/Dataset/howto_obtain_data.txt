@@ -1,0 +1,3 @@
+To retrieve the dataset from Kaggle.com and extract into this directory.
+
+https://www.kaggle.com/datasets/muhammedderric/fitness-classification-dataset-synthetic
