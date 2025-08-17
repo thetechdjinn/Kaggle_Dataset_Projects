@@ -166,9 +166,10 @@ class EvaluateModels:
         Perform preprocessing workflow steps on the dataset.
 
         Steps performed:
-           1. Splitting the dataset into features (X) and target (y)
-           2. Clean up missing values and convert categorical data to numeric
-           2. Scaling features to have a mean of 0 and standard deviation of 1
+           1. Create a new feature 'bmi' based on weight and height
+           2. Splitting the dataset into features (X) and target (y)
+           3. Clean up missing values and convert categorical data to numeric
+           4. Scaling features to have a mean of 0 and standard deviation of 1
 
         """
         logger.info("Preprocessing dataset...")
