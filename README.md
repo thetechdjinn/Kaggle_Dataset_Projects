@@ -27,7 +27,7 @@ repository, it can be helpful to better understand the codebase and processes.
 
 #### Project Link
 
-* [Fitness Classification Dataset Project](https://example.com/images/mountain-sunset.jpg "Sunset over the Himalayas")
+* [Fitness Classification Dataset Project](https://github.com/thetechdjinn/Kaggle_Dataset_Projects/blob/master/Fitness_Classification_Dataset/READM.md "Kaggle Fitness Classification Dataset Project")
 
 #### Related DataCamp Course
 
